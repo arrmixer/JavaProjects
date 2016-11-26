@@ -1,2 +1,0 @@
-# JavaProjects
-just learning Java
