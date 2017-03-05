@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../location.dat - [InputOuput]'" />
-    <option name="defaultScopeName" value="File '.../location.dat - [InputOuput]'" />
-    <option name="SEARCH_SCOPE" value="File '.../location.dat - [InputOuput]'" />
+    <option name="customScope" value="File '.../src/com/AE/Main.java - [Messages]'" />
+    <option name="defaultScopeName" value="File '.../src/com/AE/Main.java - [Messages]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/com/AE/Main.java - [Messages]'" />
   </component>
 </application>
