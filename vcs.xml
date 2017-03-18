@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/arrmixer/JavaProjects.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/arrmixer/blog.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/ProducerConsumer" />
+    <option name="cloneParentDir" value="$USER_HOME$/git" />
   </component>
 </application>
