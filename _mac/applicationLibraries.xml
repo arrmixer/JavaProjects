@@ -1,8 +1,8 @@
 <application>
   <component name="libraryTable">
-    <library name="sqlite-jdbc-3.16.1">
+    <library name="sqlite-jdbc-3.18.0">
       <CLASSES>
-        <root url="jar://$USER_HOME$/sqlite-jdbc-3.16.1.jar!/" />
+        <root url="jar://$USER_HOME$/sqlite-jdbc-3.18.0.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
