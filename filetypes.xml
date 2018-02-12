@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="scala" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <removed_mapping ext="scala" approved="true" type="Scala" />
     </extensionMap>
   </component>
 </application>
