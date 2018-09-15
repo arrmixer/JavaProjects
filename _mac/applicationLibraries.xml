@@ -17,12 +17,5 @@
       </JAVADOC>
       <SOURCES />
     </library>
-    <library name="sqlite-jdbc-3.18.0">
-      <CLASSES>
-        <root url="jar://$USER_HOME$/sqlite-jdbc-3.18.0.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
   </component>
 </application>
